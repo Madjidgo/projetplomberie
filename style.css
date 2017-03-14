@@ -13,9 +13,15 @@ h1{
 }
 
 header figure{
-  display: inline-block;
+display: inline-block;
 vertical-align: middle;
-
+}
+header p{
+  display: inline-block;
+  margin-left: 1em;
+}
+#b1{
+  box-shadow: 2px 2px #3f3f37;
 }
 
 span{
@@ -31,6 +37,7 @@ nav{
 nav li{
   display: inline-block;
   padding: 1.5em;
+  text-transform: capitalize;
 
 }
 nav a{
@@ -88,5 +95,5 @@ tr,td,table,th{
 
 }
 caption{
-  font-size: 20px;
+  font-size: 30px;
 }
