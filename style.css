@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-size: 50px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5em;
+}
+#h{
+  color: #3f3f37;
+}
+
+figure{
+  display: inline-block;
+vertical-align: middle;
+
+}
+
+span{
+  color: #288bc7;
+}
+nav{
+  background-color:#288bc7;
+  margin: 1em;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 2px #3f3f37;
+}
+nav li{
+  display: inline-block;
+  padding: 1.5em;
+
+}
+nav a{
+  text-decoration: none;
+  padding: 2em;
+  color:white;
+}
+a:hover{
+  color: #3f3f37;
+}
+
+img{
+  width:300px;
+  height: 200px;
+}
