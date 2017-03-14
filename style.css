@@ -70,6 +70,11 @@ a:hover{
 h2{
   color:#3f3f37;
 }
+
+iframe{
+  float: left;
+
+}
 footer{
   margin-top: 4%;
   background-color: #cfd2cd;
@@ -87,6 +92,12 @@ footer p{
 #p1{
   text-align: center;
 }
+.p2{
+   text-align: center;
+   text-transform: uppercase;
+   color:  #cfd2cd;
+   text-shadow: 1px 1px #3f3f37;
+}
 
 tr,td,table,th{
   border-collapse: collapse;
@@ -96,4 +107,16 @@ tr,td,table,th{
 }
 caption{
   font-size: 30px;
+}
+p span{
+  color:black;
+}
+.foot2 {
+  margin-top: 9.2%;
+}
+.art2{
+  border: 1px solid black;
+  width: 60%;
+  box-shadow: 1px 2px #3f3f37;
+  border-radius: 5px;
 }
