@@ -80,3 +80,13 @@ footer p{
 #p1{
   text-align: center;
 }
+
+tr,td,table,th{
+  border-collapse: collapse;
+  border:1px solid black;
+  padding: 1em;
+
+}
+caption{
+  font-size: 20px;
+}
