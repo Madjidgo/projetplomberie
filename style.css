@@ -57,9 +57,26 @@ a:hover{
 }
 .art1{
   margin-left:9%;
-  margin-top: 2em;
+  margin-top: 3em;
 
 }
 h2{
   color:#3f3f37;
+}
+footer{
+  margin-top: 4%;
+  background-color: #cfd2cd;
+
+  border-radius: 5px;
+}
+footer img{
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+footer p{
+  text-align:right;
+}
+#p1{
+  text-align: center;
 }
