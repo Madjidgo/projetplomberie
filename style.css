@@ -130,6 +130,9 @@ form{
   margin-left: 1.5em;
 }
 input, textarea{
-  display: block;
+  display:block;
   margin: 0.5em;
+}
+textarea{
+  border-radius:5px;
 }
