@@ -107,7 +107,7 @@ tr,td,table,th{
 }
 caption{
   font-size: 30px;
-  
+
 }
 p span{
   color:black;
@@ -125,4 +125,11 @@ thead th,tfoot th{
   background-color:#3f3f37;
   color: #fff;
   box-shadow: 2px -2px  #cfd2cd;
+}
+form{
+  margin-left: 1.5em;
+}
+input, textarea{
+  display: block;
+  margin: 0.5em;
 }
