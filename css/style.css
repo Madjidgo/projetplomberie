@@ -20,8 +20,13 @@ header p{
   display: inline-block;
   margin-left: 0.5em;
 }
-#b1{
+#b1, header input{
   box-shadow: 2px 2px #3f3f37;
+}
+header input{
+  display:inline;
+
+
 }
 
 span{
@@ -96,7 +101,7 @@ footer p{
 .p2{
    text-align: center;
    text-transform: uppercase;
-   color:  #cfd2cd;
+   margin-top: 2.1em;
    text-shadow: 1px 1px #3f3f37;
 }
 
